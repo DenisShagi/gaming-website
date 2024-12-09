@@ -4,7 +4,7 @@ export default {
   theme: {
     extend: {
       fontFamily: {
-        zenry: ["zentry", "sans-serif"],
+        zentry: ["zentry", "sans-serif"],
         general: ["general", "sans-serif"],
         "circular-web": ["circular-web", "sans-serif"],
         "robert-medium": ["robert-medium", "sans-serif"],
@@ -13,17 +13,17 @@ export default {
       colors: {
         blue: {
           50: "#DFDFF0",
-          75: "#DFDFF2",
+          75: "#dfdff2",
           100: "#F0F2FA",
           200: "#010101",
           300: "#4FB7DD",
         },
         violet: {
-          300: "#5724FF",
+          300: "#5724ff",
         },
         yellow: {
-          100: "#8E983F",
-          300: "#EDFF66",
+          100: "#8e983f",
+          300: "#edff66",
         },
       },
     },
